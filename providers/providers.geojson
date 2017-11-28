@@ -60,7 +60,16 @@
             "properties": {
                 "name": "<a target=\"_blank\" href=\"http://www.neogeo-online.net\">Neogeo Technologies</a>"
             }
-        }
-        
+        },
+         {
+            "geometry": {
+                "type": "Point", 
+                    "coordinates": [30.036711, 30.959753]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "<a target=\"_blank\" href=\"http://www.cartologic.com\">Cartologic</a>"
+            }
+        },
     ]
 }
