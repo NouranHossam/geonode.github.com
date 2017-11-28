@@ -64,7 +64,7 @@
          {
             "geometry": {
                 "type": "Point", 
-                    "coordinates": [30.036711, 30.959753]
+                    "coordinates": [30.959753,30.036711]
             }, 
             "type": "Feature", 
             "properties": {
